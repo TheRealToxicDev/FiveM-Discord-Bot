@@ -5,7 +5,7 @@ I will not provide support for anything marked with a "NO"
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.5.2   |        YES.        |
+| 1.5.2   |        YES. ☑️       |
 | 1.5.1   |        YES.        |     
 | 1.5.0   |        NO          |
 | 1.4.9   |        NO          |
