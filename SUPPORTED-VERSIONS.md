@@ -1,14 +1,14 @@
 ### Supported Versions
 
 Below is a list of Versions that we currently support.
-I will not provide support for anything marked with a "NO"
+I will not provide support for anything marked with a "❎"
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.5.2   |        YES. ☑️       |
-| 1.5.1   |        YES.        |     
-| 1.5.0   |        NO          |
-| 1.4.9   |        NO          |
+| 1.5.2   |        ☑️          |
+| 1.5.1   |        ☑️          |     
+| 1.5.0   |        ❎          |
+| 1.4.9   |        ❎          |
 
 ### Requesting Support
 
