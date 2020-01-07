@@ -16,25 +16,6 @@ And Much More See the screenshots below for examples.
 ![](https://i.imgur.com/xZDEWLw.png)
 
 ![](https://i.imgur.com/eckem5w.png)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-### Upcoming Changes (2020)
-> - [x] Implement ESX Support (Instructions Coming Soon) (Join Discord Or Create An Issue For Help)
-
-> - [ ] Fix Unresponsive Logs Bug With Latest CFX Version (Commands Not Sending To Discord)
-
-> - [ ] Fix Continuous Error String
-
-> - [ ] Update Blacklist Commands Feature
-
-> - [ ] Force Update To Version 1.5.2
-
-> - [ ] Clean Up The Code
-
-> - [x] Update Version Check Console Log
-
-> - [x] Fix Outdated/Unsupported Version Error (AGAIN)
-
-> - [ ] Push Changes To v1.5.2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Installation Instructions
