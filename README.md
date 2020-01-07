@@ -17,7 +17,6 @@ And Much More See the screenshots below for examples.
 
 ![](https://i.imgur.com/eckem5w.png)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Installation Instructions
 > - [x] Available On Our [Wiki/Docs](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs/wiki)
 
