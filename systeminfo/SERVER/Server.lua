@@ -282,9 +282,9 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 			print('CHANGES: ' .. Changes)
                         ShowNotification("This server is using an outdated version of FiveMToDiscord Logs visit (github.com/TheRealToxicDev) For Updates")
 		else
-			print('## Up to date!')
+			print('## FiveMToDiscord Logs Up to date!')
 			print('##############')
-                        ShowNotification("FiveMToDiscordBot is up to date")
+                        ShowNotification("FiveMToDiscord Logs is up to date")
 		end
 		print('\n')
 	end)
