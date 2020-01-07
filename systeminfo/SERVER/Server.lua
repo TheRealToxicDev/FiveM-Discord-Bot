@@ -277,10 +277,10 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 			print('## FiveMToDiscord Logs Outdated')
 			print('## Check the GitHub releases')
 			print('## For the newest Version!')
-                        print('## https://github.com/TheRealToxicDev/FiveM-Discord-Bot/edit/FiveMToDiscord')
+                        print('## github.com/TheRealToxicDev/FiveMToDiscord-Logs/releases')
 			print('##############')
 			print('CHANGES: ' .. Changes)
-                        ShowNotification("This server is using an outdated version of FiveMToDiscord Logs visit (github.com/TheRealToxicDev) For Updates")
+                        ShowNotification("This server is using an outdated version, Check your console for details!")
 		else
 			print('## FiveMToDiscord Logs Up to date!')
 			print('##############')
