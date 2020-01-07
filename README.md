@@ -19,7 +19,7 @@ And Much More See the screenshots below for examples.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Installation Instructions
-> - [x] Available On Our [Wiki/Docs](https://github.com/toxic-developer/FiveM-Discord-Bot/wiki/Home)
+> - [x] Available On Our [Wiki/Docs](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs.wiki)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Additional Support/Contact
