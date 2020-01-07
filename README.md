@@ -7,7 +7,7 @@ FiveMToDiscord Logs allows you to have server notifications such as:
 
 > Player Join & Leave Notifications
 
-> /911 Commands Usage
+> /911 Command Usage
 
 And Much More See the screenshots below for examples.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
