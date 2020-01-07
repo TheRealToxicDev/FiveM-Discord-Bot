@@ -11,3 +11,5 @@
 > - [x] Add Version Check On-Screen Notifications
 
 > - [x] Push Changes To v1.5.2
+
+> - [x] Name Change And Location Change
