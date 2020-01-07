@@ -1,6 +1,5 @@
 ### FiveMToDiscord Logs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 FiveMToDiscord Logs allows you to have server notifications such as:
 
 > Player Death Notifications
@@ -10,7 +9,13 @@ FiveMToDiscord Logs allows you to have server notifications such as:
 > /911 Command Usage
 
 And Much More See the screenshots below for examples.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ⚠️ WARNING ⚠️
+> v1.5.2 Has a new Notification system for Version Checks 
+that has not yet been tested, Please report any bugs or errors.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ![](https://i.imgur.com/e0LFjH4.png)
 
 ![](https://i.imgur.com/xZDEWLw.png)
