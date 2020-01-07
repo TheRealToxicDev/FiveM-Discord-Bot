@@ -291,7 +291,7 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 end)
 
 -- Bot status down here, better don't touch this
-local Status = 'OUTDATED'
+local Status = 'UpToDate'
 local GithubResourceName = 'FiveMToDiscord'		
 
 PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDiscord/master/' .. GithubResourceName .. '/ONLINE', function(Error, Online, Header)
@@ -302,17 +302,21 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 		print('##')
 		print('## Status: ' .. Status)
 		print('## Online: ' .. Online)
+                print('## Version: v1.5.2')
+                print('## Author: ToxicDev')
 		print('##')
 		if Status ~= UpToDate then
-			print('## Bot Is Online!')
-			print('##############')
-		else 
-			print('## Bot Is Outdated')
+			print('## FiveMToDiscord Logs Is Currently')
+                        print('Under Maintenance or Being Updated')
 			print('## Check the GitHub')
 			print('## For Status & Updates')
 			print('##############')
 			print('MAINTENANCE: ' .. Maintenance)
 		end
+		else 
+			print('## FiveMToDiscord Logs Is Online and Ready!')
+			print('##############')
+                end
 		print('\n')
 	end)
 end)
