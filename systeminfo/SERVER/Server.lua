@@ -312,7 +312,6 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 			print('## For Status & Updates')
 			print('##############')
 			print('MAINTENANCE: ' .. Maintenance)
-		end
 		else 
 			print('## FiveMToDiscord Logs Is Online and Ready!')
 			print('##############')
