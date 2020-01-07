@@ -322,10 +322,16 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 end)
 
 -- Show Notifications on the Players Screen! 
---[ function ShowNotification( text )
+--[[ function ShowNotification( text )
     SetNotificationTextEntry( "STRING" )
     AddTextComponentString( text )
-    DrawNotification( false, false ) ]--
+    DrawNotification( false, false ) ]]
+
+  function ShowNotification ( text)
+    SetNotificationTextEntry("STRING");
+     AddTextComponentString( text );
+      SetNotificationMessage("CHAR_BLOCKED", "CHAR_BLOCKED", true, 1, "~y~FiveMToDiscord Logs~s~", "");
+        DrawNotification(false, true);
 end
 
 
