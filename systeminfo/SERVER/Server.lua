@@ -261,7 +261,7 @@ end
 
 -- Version Checking down here, better don't touch this
 -- Will throw an error if your version is outdated
-local CurrentVersion = '1.5.1'
+local CurrentVersion = '1.5.2'
 local GithubResourceName = 'FiveMToDiscord'
 
 PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDiscord/master/' .. GithubResourceName .. '/VERSION', function(Error, NewestVersion, Header)
@@ -275,13 +275,16 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 		print('##')
 		if CurrentVersion ~= NewestVersion then
 			print('## Outdated')
-			print('## Check the Topic')
+			print('## Check the GitHub releases')
 			print('## For the newest Version!')
+                        print('## https://github.com/TheRealToxicDev/FiveM-Discord-Bot/edit/FiveMToDiscord')
 			print('##############')
 			print('CHANGES: ' .. Changes)
+                        ShowNotification("This server is using an outdated version of FiveMToDiscordBot visit (github.com/TheRealToxicDev) For Updates")
 		else
 			print('## Up to date!')
 			print('##############')
+                        ShowNotification("FiveMToDiscordBot is up to date")
 		end
 		print('\n')
 	end)
@@ -313,4 +316,12 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 		print('\n')
 	end)
 end)
+
+-- Show Notifications on the Players Screen! 
+function ShowNotification( text )
+    SetNotificationTextEntry( "STRING" )
+    AddTextComponentString( text )
+    DrawNotification( false, false )
+end
+
 
