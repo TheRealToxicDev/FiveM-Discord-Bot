@@ -26,6 +26,6 @@ If you are experiencing issues please feel free to Contact me by creating an iss
 
 > [Discord](https://discord.io/Toxic-Team)
 
-> Make sure you check the "SUPPORTED-VERSIONS.md file to see a list of Versions we offer support for
+> Make sure you check the [Supported Versions](SUPPORTED-VERSIONS.md) to see a list of Versions we offer support for
 
 > Check [CHANGELOG](/CHANGELOG.md) for a list of Update Changes
