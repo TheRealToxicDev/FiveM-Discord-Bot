@@ -1,7 +1,7 @@
-### FiveM To Discord Bot
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### FiveMToDiscord Logs
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-FiveM-Discord Bot allows you to have server notifications such as:
+FiveMToDiscord Logs allows you to have server notifications such as:
 
 > Player Death Notifications
 
@@ -28,3 +28,5 @@ If you are experiencing issues please feel free to Contact me by creating an iss
 > [Discord](https://discord.io/Toxic-Team)
 
 > Make sure you check the "SUPPORTED-VERSIONS.md file to see a list of Versions we offer support for
+
+> Check CHANGELOG.md for a list of Update Changes
