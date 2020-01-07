@@ -29,3 +29,5 @@ If you are experiencing issues please feel free to Contact me by creating an iss
 > Make sure you check the "SUPPORTED-VERSIONS.md file to see a list of Versions we offer support for
 
 > Check CHANGELOG.md for a list of Update Changes
+
+! [](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs/blob/FiveMToDiscord-Bot-v1.5.2/SUPPORTED-VERSIONS.md)
