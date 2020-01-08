@@ -331,6 +331,4 @@ end)
      AddTextComponentString( text );
       SetNotificationMessage("CHAR_BLOCKED", "CHAR_BLOCKED", true, 1, "~y~FiveMToDiscord Logs~s~", "");
         DrawNotification(false, true);
-end)
-
-
+end
