@@ -320,7 +320,7 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 	end)
 end)
 
--- Show Notifications on the Players Screen! 
+-- On-Screen Notifications!
 --[[ function ShowNotification( text )
     SetNotificationTextEntry( "STRING" )
     AddTextComponentString( text )
