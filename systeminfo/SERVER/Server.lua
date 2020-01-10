@@ -300,35 +300,20 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 		print('##############')
 		print('## ' .. GetCurrentResourceName())
 		print('##')
-		print('## Status: ' .. Status)
-		print('## Online: ' .. Online)
-                print('## Version: v1.5.2')
-                print('## Author: ToxicDev')
+		print('## Current Version: ' .. CurrentVersion)
+		print('## Newest Version: ' .. NewestVersion)
 		print('##')
-		if Status ~= UpToDate then
-			print('## FiveMToDiscord Logs Is Currently')
-                        print('Under Maintenance or Being Updated')
-			print('## Check the GitHub')
-			print('## For Status & Updates')
+		if CurrentVersion = NewestVersion then
+			print('## Up to date!')
+			print('##############')	
+                else
+                        print('## Outdated')
+			print('## Check the GitHub Repo')
+			print('## For the newest Version!')
+                        print('## gitHub.com/TheRealToxicDev/FiveMToDiscord-Logs/releases
 			print('##############')
-			print('MAINTENANCE: ' .. Maintenance)
-		else 
-			print('## FiveMToDiscord Logs Is Online and Ready!')
-			print('##############')
-                end
+			print('CHANGES:\n' .. Changes)
+		end
 		print('\n')
 	end)
 end)
-
--- On-Screen Notifications!
---[[ function ShowNotification( text )
-    SetNotificationTextEntry( "STRING" )
-    AddTextComponentString( text )
-    DrawNotification( false, false ) ]]
-
-  function ShowNotification ( text)
-    SetNotificationTextEntry("STRING");
-     AddTextComponentString( text );
-      SetNotificationMessage("CHAR_BLOCKED", "CHAR_BLOCKED", true, 1, "~y~FiveMToDiscord Logs~s~", "");
-        DrawNotification(false, true);
-end
