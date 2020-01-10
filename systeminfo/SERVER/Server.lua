@@ -273,47 +273,17 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 		print('## Current Version: ' .. CurrentVersion)
 		print('## Newest Version: ' .. NewestVersion)
 		print('##')
-		if CurrentVersion ~= NewestVersion then
-			print('## FiveMToDiscord Logs Outdated')
+		if CurrentVersion = NewestVersion then
+			print('## FiveMToDiscord Logs Up to date!')
+			print('##############')	
+                 else
+                        print('## FiveMToDiscord Logs Outdated')
 			print('## Check the GitHub releases')
 			print('## For the newest Version!')
                         print('## github.com/TheRealToxicDev/FiveMToDiscord-Logs/releases')
 			print('##############')
 			print('CHANGES: ' .. Changes)
-                        ShowNotification("This server is using an outdated version, Check your console for details!")
-		else
-			print('## FiveMToDiscord Logs Up to date!')
-			print('##############')
-                        ShowNotification("FiveMToDiscord Logs is up to date")
-		end
-		print('\n')
-	end)
-end)
-
--- Bot status down here, better don't touch this
-local Status = 'UpToDate'
-local GithubResourceName = 'FiveMToDiscord'		
-
-PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDiscord/master/' .. GithubResourceName .. '/ONLINE', function(Error, Online, Header)
-	PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDiscord/master/' .. GithubResourceName .. '/MAINTENANCE', function(Error, Maintenance, Header)
-		print('\n')
-		print('##############')
-		print('## ' .. GetCurrentResourceName())
-		print('##')
-		print('## Current Version: ' .. CurrentVersion)
-		print('## Newest Version: ' .. NewestVersion)
-		print('##')
-		if CurrentVersion = NewestVersion then
-			print('## Up to date!')
-			print('##############')	
-                else
-                        print('## Outdated')
-			print('## Check the GitHub Repo')
-			print('## For the newest Version!')
-                        print('## gitHub.com/TheRealToxicDev/FiveMToDiscord-Logs/releases
-			print('##############')
-			print('CHANGES:\n' .. Changes)
-		end
+                 end
 		print('\n')
 	end)
 end)
