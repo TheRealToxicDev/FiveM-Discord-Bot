@@ -273,7 +273,7 @@ PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDi
 		print('## Current Version: ' .. CurrentVersion)
 		print('## Newest Version: ' .. NewestVersion)
 		print('##')
-		if CurrentVersion = NewestVersion then
+		if CurrentVersion ~= NewestVersion then
 			print('## FiveMToDiscord Logs Up to date!')
 			print('##############')	
                  else
