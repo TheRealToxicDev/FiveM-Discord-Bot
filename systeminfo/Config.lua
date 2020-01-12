@@ -5,11 +5,11 @@ DiscordWebhookKillinglogs = 'YOUR_WEBHOOK_HERE'
 DiscordWebhookChat = 'YOUR_WEBHOOK_HERE'
 
 -- Bot/Client Avatar and UserName
-SystemAvatar = 'https://wiki.fivem.net/w/images/d/db/FiveM-Wiki.png'
+SystemAvatar = 'https://wiki.fivem.net/w/images/d/db/FiveM-Wiki.png' -- Bot Avatar (FiveM Logo By Default)
 
-UserAvatar = 'https://i.imgur.com/KIcqSYs.png' -- Change this to a linn of your choice
+UserAvatar = 'IMAGE_LINK_HERE' -- Change this to a link of your choice (Example https://i.imgur.com/KIcqSYs.png)
 
-SystemName = 'NAORP Bot' -- Change this to a name of your choice!
+SystemName = 'SYSTEM' -- Change this to a name of your choice!
 
 -- How To Format and Setup Special Commands
 --[[ Special Commands formatting
