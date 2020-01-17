@@ -254,7 +254,7 @@ function GetIDFromSource(Type, ID) --(Thanks To WolfKnight [forum.FiveM.net])
 end
  
 -- Version Checking down here, better don't touch this
-local CurrentVersion = '1.5.2'
+local CurrentVersion = '1.5.2 (HotFix)'
 local GithubResourceName = 'FiveMToDiscord'
  
 PerformHttpRequest('https://raw.githubusercontent.com/GrimDesignsFiveM/FiveMToDiscord/master/' .. GithubResourceName .. '/VERSION', function(Error, NewestVersion, Header)
