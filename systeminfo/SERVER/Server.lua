@@ -149,7 +149,7 @@ AddEventHandler('DiscordBot:ToDiscord', function(WebHook, Name, Message, Image, 
 		end
  
 		--Getting the steam avatar if available
-		if not Source == 0 and GetIDFromSource('steam', Source) then
+		if Source ~= 0 and GetIDFromSource('steam', Source) then
 			PerformHttpRequest('http://steamcommunity.com/profiles/' .. tonumber(GetIDFromSource('steam', Source), 16) .. '/?xml=1', function(Error, Content, Head)
 				local SteamProfileSplitted = stringsplit(Content, '\n')
 				for i, Line in ipairs(SteamProfileSplitted) do
