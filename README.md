@@ -2,6 +2,8 @@
 [![License Used](https://img.shields.io/badge/License-GPL_v3%20-yellow.svg?style=flat)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs) 
 [![License Scan](https://img.shields.io/badge/License_Scan-Passing%20-brightgreen.svg?style=flat)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs) 
 
+![Recommended Version](https://github.com/toxic-developer/FiveM-Discord-Bot/releases/tag/v1.5.1)
+
 ### FiveMToDiscord Logs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 FiveMToDiscord Logs allows you to have server notifications such as:
