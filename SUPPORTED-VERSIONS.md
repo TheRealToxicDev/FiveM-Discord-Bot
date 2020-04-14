@@ -5,8 +5,8 @@ I will not provide support for anything marked with a "❎"
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.5.2   |        ☑️          |
-| 1.5.1   |        ☑️          |     
+| 1.5.2 (Buggy)  |        ☑️          |
+| 1.5.1 (Recommended)  |        ☑️          |     
 | 1.5.0   |        ❎          |
 | 1.4.9   |        ❎          |
 
