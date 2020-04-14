@@ -6,7 +6,7 @@
 Version 1.5.2 is currently buggy and being updated as fast as possible
 In the meantime please download our stable version 1.5.1 below
 
-> [Recommended Version](https://github.com/toxic-developer/FiveM-Discord-Bot/releases/tag/v1.5.1) <- Click here for 1.5.1
+> [Recommended Version](https://github.com/toxic-developer/FiveM-Discord-Bot/releases/tag/v1.5.1) <- v1.5.1
 
 ### FiveMToDiscord Logs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
