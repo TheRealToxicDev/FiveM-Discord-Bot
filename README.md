@@ -2,7 +2,11 @@
 [![License Used](https://img.shields.io/badge/License-GPL_v3%20-yellow.svg?style=flat)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs) 
 [![License Scan](https://img.shields.io/badge/License_Scan-Passing%20-brightgreen.svg?style=flat)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs) 
 
-> [Recommended Version](https://github.com/toxic-developer/FiveM-Discord-Bot/releases/tag/v1.5.1)
+# Note
+Version 1.5.2 is currently buggy and being updated as fast as possible
+In the meantime please download our stable version 1.5.1 below
+
+> [Recommended Version](https://github.com/toxic-developer/FiveM-Discord-Bot/releases/tag/v1.5.1) <- Click here for 1.5.1
 
 ### FiveMToDiscord Logs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
