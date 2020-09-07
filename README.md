@@ -36,7 +36,7 @@ And Much More See the screenshots below for examples.
 ### Additional Support/Contact
 If you are experiencing issues please feel free to Contact me by creating an issue or Joining my discord at the link below!
 
-> [Discord](https://discord.gg/J6qMAWB)
+> [Discord](https://discord.gg/ySQtjQ6)
 
 > Make sure you check the [Supported Versions](SUPPORTED-VERSIONS.md) to see a list of Versions we offer support for
 
