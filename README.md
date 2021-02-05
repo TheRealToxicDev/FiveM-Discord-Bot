@@ -2,11 +2,6 @@
 
 ---
 
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTheRealToxicDev%2FFiveMToDiscord-Logs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTheRealToxicDev%2FFiveMToDiscord-Logs?ref=badge_large)
-
----
-
 # Note
 Version 1.5.2 is currently buggy and being updated as fast as possible
 In the meantime please download our stable version 1.5.1 below
