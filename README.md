@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/badge/Build-Passing%20-brightgreen.svg?style=flat)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs) [![Code Library](https://img.shields.io/badge/Library-LUA-orange.svg)](https://www.lua.org/) [![Version](https://img.shields.io/badge/Version-1.5.2-blue.svg)](https://github.com/TheRealToxicDev/FiveMToDiscord-
+[![Build Status](https://img.shields.io/badge/Build-Passing%20-brightgreen.svg?style=flat)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs) [![Code Library](https://img.shields.io/badge/Library-LUA-orange.svg)](https://www.lua.org/) [![Version](https://img.shields.io/badge/Version-1.5.2-blue.svg)](https://github.com/TheRealToxicDev/FiveMToDiscord-Logs)
 
 # Note
 Version 1.5.2 is currently buggy and being updated as fast as possible
