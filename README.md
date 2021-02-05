@@ -29,15 +29,15 @@ And Much More See the screenshots below for examples.
 ![](https://i.imgur.com/eckem5w.png)
 
 ### Installation Instructions
-> - [x] Available On Our [Docs](http://help.toxicdev.me/docs/instructions/fivem2discord-install) Page
+> - [x] Available On Our [Docs](https://help.toxicdev.me/internal/fivem2discord/install/) Page
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Additional Support/Contact
 If you are experiencing issues please feel free to Contact me by creating an issue or Joining my discord at the link below!
 
-> [Discord](https://discord.gg/ySQtjQ6)
+> [Discord](https://redirect.toxicdev.me/discord)
 
-> Make sure you check the [Supported Versions](SUPPORTED-VERSIONS.md) to see a list of Versions we offer support for
+> [Supported Versions](https://help.toxicdev.me/faqs/versions/#fivem2discord-logs)
 
-> Check [CHANGELOG](/CHANGELOG.md) for a list of Update Changes
+> [CHANGELOG](https://help.toxicdev.me/changelog/fivem2discord/)
