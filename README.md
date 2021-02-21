@@ -38,7 +38,7 @@ And Much More See the screenshots below for examples.
 ### Additional Support/Contact
 If you are experiencing issues please feel free to Contact me by creating an issue or Joining my discord at the link below!
 
-> [Discord](https://redirect.toxicdev.me/discord)
+> [Discord](https://toxicfx.org/discord)
 
 > [Supported Versions](https://help.toxicdev.me/faqs/versions/#fivem2discord-logs)
 
